@@ -1,0 +1,12 @@
+/.gradle
+/.idea/
+/bin
+/build
+/javafx-sdk-15.0.1/
+/.classpath
+/.project
+.DS_Store
+
+
+
+
