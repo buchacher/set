@@ -23,4 +23,4 @@ Select and run Client configuration:
 - [JavaFX](https://openjfx.io/): An open source, next generation client application platform for desktop, mobile and embedded systems built on Java
 - [AnimateFX](https://github.com/Typhon0/AnimateFX): A library of ready-to-use animations for JavaFX
 
-Shared with the kind permission of collaborators AT and RK.
+Shared with the kind permission of collaborators AK and RK.
