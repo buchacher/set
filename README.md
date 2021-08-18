@@ -9,7 +9,7 @@ The aim was to develop a working implementation of the [Set game](https://www.se
 
  `--module-path /path/to/project/set/javafx-sdk-15.0.1/lib/ --add-modules javafx.controls,javafx.media,javafx.fxml`
 
-**Make sure to replace the  `/path/to/project/` with the actual path on your local computer.**
+**Make sure to replace the  `/path/to/project/` with the actual path on your local machine.**
 
 Select and run Server configuration:
 
